@@ -24,6 +24,7 @@
 ### - **Provadí hash ✓**
 ### - **Ověřuje data ✗**
 
+## Software
 ### Příklad 1. je tvořen ve Visual Studio.
 ### Přiklad 2. je tvořen v NetBeans s Java. Kompilátor je MinGW
 
