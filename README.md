@@ -2,11 +2,10 @@
 ## Úložiště obsahující úkoly.
 
 ##  Soubor: '' ProduktRty '' 
-### obsahuje malou stránku v HTML a CSS, motivem stránky je sponzorování rtěnky.
-### HTML stránky je primitivní, místo toho je CSS stránky modernější co obsahuje ''hover'' kterè ''sklouže nahoru'' pecifikace produktu.
+### obsahuje malou stránku v HTML a CSS, která ma sponzorizovát balsam na rty.
 
 # Soubor: '' bezpecnosti.rar '' 
-### obsahuje 
+### obsahuje: 
 ### Bezpečností třidu, která generuje hexa string ✓
 ### Provadí hash ✓ 
 ### Ověřuje data ✗	
