@@ -9,7 +9,7 @@
 
 
 ##  Soubor: '' ProduktRty '' 
-### obsahuje malou stránku v HTML a CSS, která ma sponzorizovát balsam na rty.
+### Obsahuje malou stránku v HTML a CSS, která ma sponzorizovát balsam na rty.
 
 
 
@@ -19,7 +19,7 @@
 
 
 # Soubor: '' bezpecnosti.rar '' 
-### obsahuje: 
+### Obsahuje: 
 ### - **Bezpečností třidu, která generuje hexa string ✓**
 ### - **Provadí hash ✓**
 ### - **Ověřuje data ✗**
